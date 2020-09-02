@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+.navigation {
+  display: flex;
+}
+
+.content {
+  min-height: 5rem;
+  background-color: aqua;
+}
